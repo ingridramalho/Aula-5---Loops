@@ -1,3 +1,5 @@
+// tabuada exercicio//
+
 const numero = Number(prompt("Digite um número para ver a tabuada:"))
 
 if (isNaN(numero)) {
